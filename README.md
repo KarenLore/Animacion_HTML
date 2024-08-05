@@ -53,4 +53,4 @@ Hecho por ***Karen Lorena Cristancho Caceres***
 > Las animaciones complejas pueden causar problemas de rendimiento, especialmente en dispositivos móviles más antiguos. Optimiza tu código y realiza pruebas en diferentes dispositivos para asegurar una experiencia fluida.
 
 > [!CAUTION]
-> No sobrecargues tu página con demasiadas aimaciones. Eso podría distraer al usuario y hacer que la página se sienta o se vea desordenada. Usa animaciones de manera estratégica para mejorar la usabilidad y la experiencia del usuario.
+> No sobrecargues tu página con demasiadas animaciones. Eso podría distraer al usuario y hacer que la página se sienta o se vea desordenada. Usa animaciones de manera estratégica para mejorar la usabilidad y la experiencia del usuario.
