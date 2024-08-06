@@ -1,4 +1,4 @@
-# Animacion_HTML
+# 🌈Animacion_HTML
 Esta animaciones fueron un reto, por su dificultad en el momento de ralizar el movimiento de cada letra o figura creada.
 
 ## Tabla de contenidos
@@ -24,7 +24,7 @@ Código realizado en:
 
 ## Sección 1
 ### Animación Netflix
-### Descripción
+### 📜Descripción
 Esta animación representa la letra "N" del logo de Netflix. Utiliza varios divs para crear el efecto de la letra, con transiciones suaves que replican el estilo característico del logo.
 
 ## Sección 2
@@ -55,3 +55,8 @@ Hecho por ***Karen Lorena Cristancho Caceres***
 
 > [!CAUTION]
 > No sobrecargues tu página con demasiadas animaciones. Eso podría distraer al usuario y hacer que la página se sienta o se vea desordenada. Usa animaciones de manera estratégica para mejorar la usabilidad y la experiencia del usuario.
+
+### 📞Contacto
+  Para preguntas, sugerencias o más información sobre el proyecto, no dudes en ponerte en contacto conmigo:
+  Nombre: Karen Lorena Cristancho
+  Email: karenlorenacriscaceres@gmail.com
